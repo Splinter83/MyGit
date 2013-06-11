@@ -1,0 +1,3 @@
+[submodule "MyGitProject"]
+	path = MyGitProject
+	url = git@github.com:Splinter83/MyGitProject.git
